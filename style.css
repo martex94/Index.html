@@ -2,3 +2,10 @@ body {
     background: #1a1a2e;
     font-family: 'Arial', sans-serif;
 }
+#startButton {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
